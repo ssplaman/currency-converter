@@ -5,7 +5,8 @@ A modern currency converter built with **React**, **TypeScript**, **Redux**, and
 ## 📺 Project Demo Videos
 
 - **Full Project Overview:**  
-  [Currency Project](./media/project%20overview.gif)
+   ![Currency Project](./doc/project-overview.gif)
+   ![Currency Project](./doc/currency-convertor.mp4)
 
 ## Features
 
