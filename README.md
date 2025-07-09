@@ -2,6 +2,12 @@
 
 A modern currency converter built with **React**, **TypeScript**, **Redux**, and **Vite**. This app allows you to convert an amount from one currency to another, view the result instantly, and keep a history of all your conversions.
 
+## 📺 Project Demo
+
+- **Full Project Overview:**  
+   ![Currency Project](./doc/currency-convertor.gif)
+   [Watch Preview](./doc/currency-convertor.mp4)
+
 ## Features
 
 - **Amount Input:** Enter the amount you want to convert.
