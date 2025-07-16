@@ -11,6 +11,11 @@ export default defineConfig({
   optimizeDeps: {
     include: ['canvasjs-react-charts'],
   },
+  build: {
+    commonjsOptions: {
+      transformMixedEsModules: true,
+    },
+  },
   server: {
     open: true
   },
