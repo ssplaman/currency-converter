@@ -4,7 +4,6 @@ A modern currency converter built with **React**, **TypeScript**, **Redux**, and
 
 ## 📺 Project Demo
 
-- **Full Project Overview:**  
    ![Currency Project](./doc/currency-convertor.gif)
    [Watch Preview](https://raw.githubusercontent.com/sumedha-softech/currency-converter/main/doc/currency-convertor.mp4)
 
@@ -133,3 +132,5 @@ This project is licensed under the MIT License.
 ---
 
 Made with ❤️ using React + TypeScript + Redux.
+
+**Note:** This project uses the Currency Conversion API from RapidAPI but is not endorsed by the provider.
