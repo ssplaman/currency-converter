@@ -12,18 +12,32 @@
 
     .converter {
       max-width: 500px;
-      margin: auto;
-      margin-top: 50px;
+      margin: 50px auto;
       padding: 30px;
       background: white;
       border-radius: 10px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     }
+
+    .footer {
+      text-align: center;
+      padding: 1rem;
+      background: #222;
+      color: #aaa;
+      font-size: 0.95rem;
+      margin-top: 20px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
   </style>
 </head>
 
 <body>
-  <div id="root" className="container"></div>
+  <div id="root" class="container"></div>
+  <footer class="footer">
+    This project uses the Currency Conversion API from RapidAPI but is not endorsed by the provider.
+  </footer>
   <script type="module" src="/src/main.tsx"></script>
 </body>
 
