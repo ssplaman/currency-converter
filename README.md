@@ -5,7 +5,7 @@ A modern currency converter built with **React**, **TypeScript**, **Redux**, and
 ## 📺 Project Demo
 
    ![Currency Project](./doc/currency-convertor.gif)
-   [Watch Preview](https://raw.githubusercontent.com/sumedha-softech/currency-converter/main/doc/currency-convertor.mp4)
+   [Watch Preview](https://currency-converter-pi-orpin.vercel.app)
 
 ## Features
 
